@@ -1,0 +1,21 @@
+{
+    "login": {
+        "email": "djuradjuric3245@gmail.com",
+        "password": "12345678",
+        "emailIncorrectType": "test12345678.gmail.com",
+        "emailWithoutCom": "test12345678@gmail",
+        "emailWithoutDot": "test12345678@gmailcom",
+        "emailIncorrect": "test246897531@gmail.com",
+        "passwordShort": "1234567",
+        "passwordLong": "123456789",
+        "passwordWithoutNumber": "asdfghjkl"
+    },
+    "professor": {
+        "fName": "Stanko",
+        "lName": "Jovic3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Profesor_John_G._Rarity_FRS.jpg"
+    },
+    "gradebook": {
+        "title": "dr"
+    }
+}
